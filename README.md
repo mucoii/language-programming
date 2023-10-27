@@ -6,6 +6,8 @@ All language programming
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mucoii&label=Profile%20views&color=0e75b6&style=flat" alt="mucoii" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mucoii" alt="mucoii" /></a> </p>
+
 - 💬 Ask me about **c++ , c**
 
 - 📫 How to reach me **hungneopc@gmail.com**
@@ -16,7 +18,9 @@ All language programming
 <p align="left">
 <a href="https://twitter.com/devhungmucoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devhungmucoi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20821061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20821061" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mucoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mucoi" height="30" width="40" /></a>
 <a href="https://kaggle.com/mucoii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mucoii" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/mucoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="mucoi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
